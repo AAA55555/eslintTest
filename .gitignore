@@ -1,0 +1,9 @@
+/node_modules
+/public
+/resources
+/bin
+/web
+/.cache
+/.idea
+
+package-lock.json
